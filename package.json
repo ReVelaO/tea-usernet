@@ -1,0 +1,24 @@
+{
+  "name": "tea-usernet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ReVelaO/tea-usernet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ReVelaO/tea-usernet/issues"
+  },
+  "homepage": "https://github.com/ReVelaO/tea-usernet#readme",
+  "dependencies": {
+    "alchemy-sdk": "^3.3.1",
+    "ethers": "^6.13.0",
+    "tea-comnet": "^1.0.1"
+  }
+}
